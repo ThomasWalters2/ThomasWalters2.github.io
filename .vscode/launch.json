@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+               
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open TW.html",
+            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\TW.html"
+        }
+
+        ,{
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open AerospaceEngineering.html",
+            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\AerospaceEngineering.html"
+        }
+
+       , {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open GlobalMarkets.html",
+            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\GlobalMarkets.html"
+        }
+
+        ,{
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open AboutMe.html",
+            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\AboutMe.html"
+        }
+
+        ,{
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open spare.html",
+            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\spare.html"
+        }
+        
+    ]
+}
