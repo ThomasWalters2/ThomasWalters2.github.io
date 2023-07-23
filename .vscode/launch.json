@@ -40,5 +40,12 @@
             "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\spare.html"
         }
         
+        ,{
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open 3rdJune23.html",
+            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\3rdJune23.html"
+        }
+        
     ]
 }
