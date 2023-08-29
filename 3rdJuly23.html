@@ -77,13 +77,23 @@
 		</tr>
 	</tbody>
 </table>
+
 <style>
-	
+	/* Default image size for desktop */
 	img {
-		width: 500px; /* Set the desired width here */
-		height: auto; /* Height will adjust proportionally */
+	  width: 600px;
+	  height: auto;
 	}
-</style>
+  
+	/* Media query for screens smaller than 768px (typical tablet and mobile screens) */
+	@media (max-width: 768px) {
+	  img {
+		width: 100%; /* Set image to fill the available width */
+		max-width: 375px; /* Limit image size to a maximum of 300px */
+		height: auto;
+	  }
+	}
+  </style>
 
 <img src="images/09.07.2023 heatmap.png" alt="">
 <p><em>Sector Performance</em></p>
