@@ -19,7 +19,7 @@
                 <li><a href="AboutMe.html">About Me</a></li>
                 <li><a href ="AerospaceEngineering.html">Aerospace Engineering</a></li>
                 <li><a href ="GlobalMarkets.html">Global Markets</a></li>
-                <li><a href ="Trades.html">My Trades</a></li>
+                <li><a href ="Trades.html">My Trades & Investments</a></li>
             </ul>
         </nav>
 		<!-- One -->
@@ -52,8 +52,10 @@
 
 <div class="6u$ 12u$(medium)" style="margin: 0 auto; text-align: center;">
     <p><br></p>
-    <p><b>Long Term Investment</b><br>I invest in an S&P 500 tracker mutual fund (unhedged) and so I created a chart using MATLAB to monitor its performance. Each plotted point represents a purchase made, and the vertical lines show a new year, with the percentage growth in the previous year. I try to leverage profits using technical analysis to time investments, which this chart can give an insight into. I am also looking to leverage with currency hedging when I feel that the USDGBP is high in relation to average historic levels.</p>
+    <p><b>Long Term Investments</b><br>I invest in an S&P 500 tracker mutual fund (unhedged) and so I created a chart using MATLAB to monitor its performance. Each plotted point represents a purchase made, and the vertical lines show a new year, with the percentage growth in the previous year. I try to leverage profits using technical analysis to time investments, which this chart can give an insight into. I am also looking to leverage with currency hedging when I feel that the USDGBP is high in relation to average historic levels.</p>
     <img src="images/FidelityIndexUSFundAccGraph.png" alt="Performance Chart" style="width: 700px; height: auto;">
+    <p>Here is a hedged fund that uses currency forwards, options and currency swaps, to track the S&P 500 index. The graph was creating in MATLAB using data from the Financial Times, tracking the fund price in GBP and the actual index price in USD. The index price is adjusted to be equivalent to the Fund price on day 0, and subsequent prices are divided by this constant to allow for a simple comparison.</p>
+    <img src="images/FidelityIndexUSFundAccHEDGEDGraph.png" alt="Performance Chart" style="width: 700px; height: auto;">
 </div>
 
 
@@ -86,7 +88,9 @@
                             <div class="align-center">
                               <img src="images/FTSE100trade.png" alt="">
 							  <p><b>Entry: 7262 GBP<br>Target: 7450 GBP<br>Duration: ~3 weeks</b><br>Will not look to hold beyond 21st September, due to next BoE decision. This trade is played off strong technicals in the RSI, Stochastics and MACD, as well as reaching a key support level.</p>
-						    </div>
+                              <p>I coded the graph below which shows the mutual fund that I traded, also showing how closely it followed the index. In the future I will look to trade using ETFs, to enter/exit at any time in the day. </p>
+                              <img src="images/FidelityIndexUKFundIncGraph.png" alt="">
+                            </div>
                         </div>
 					</div>
 				</div>
