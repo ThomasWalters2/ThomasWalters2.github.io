@@ -8,43 +8,22 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open TW.html",
-            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\TW.html"
+            "name": "Open index.html",
+            "file": "C:/Users/thoma/OneDrive/Documents/GitHub/ThomasWalters2.github.io/GlobalMarkets.html"
         }
 
-        ,{
+        {
             "type": "chrome",
             "request": "launch",
-            "name": "Open AerospaceEngineering.html",
-            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\AerospaceEngineering.html"
+            "name": "Open 4thSep23.html",
+            "file": "C:/Users/thoma/OneDrive/Documents/GitHub/ThomasWalters2.github.io/4thSep23.html"
         }
 
-       , {
+        {
             "type": "chrome",
             "request": "launch",
-            "name": "Open GlobalMarkets.html",
-            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\GlobalMarkets.html"
-        }
-
-        ,{
-            "type": "chrome",
-            "request": "launch",
-            "name": "Open AboutMe.html",
-            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\AboutMe.html"
-        }
-
-        ,{
-            "type": "chrome",
-            "request": "launch",
-            "name": "Open spare.html",
-            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\spare.html"
-        }
-        
-        ,{
-            "type": "chrome",
-            "request": "launch",
-            "name": "Open 3rdJune23.html",
-            "file": "c:\\Users\\thoma\\OneDrive\\Documents\\hielo\\3rdJune23.html"
+            "name": "Open 11thSep23.html",
+            "file": "C:/Users/thoma/OneDrive/Documents/GitHub/ThomasWalters2.github.io/11thSep23.html"
         }
         
     ]
