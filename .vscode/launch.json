@@ -15,15 +15,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open 4thSep23.html",
-            "file": "C:/Users/thoma/OneDrive/Documents/GitHub/ThomasWalters2.github.io/4thSep23.html"
-        }
-
-        {
-            "type": "chrome",
-            "request": "launch",
-            "name": "Open 11thSep23.html",
-            "file": "C:/Users/thoma/OneDrive/Documents/GitHub/ThomasWalters2.github.io/11thSep23.html"
+            "name": "Open GlobalMarkets.html",
+            "file": "C:/Users/thoma/OneDrive/Documents/GitHub/ThomasWalters2.github.io/GlobalMarkets.html"
         }
         
     ]
